@@ -33,6 +33,7 @@ These projects focus on providing server backends or implementing specific proto
 Projects applying `browser-use` principles to solve problems in a specific domain, such as Quality Assessment.
 
 *   [SDET-GENIE](https://github.com/WaiGenie/SDET-GENIE) - An AI-powered QA automation framework leveraging `browser-use` to transform user stories directly into executable test automation code. 
+*   [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Automated web scraping spider generation using Browser Use and LLMs.
 
 ## Integrations & Ease of Use
 
